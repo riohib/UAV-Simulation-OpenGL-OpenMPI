@@ -1,8 +1,6 @@
 /*
  Author: Riyasat Ohib
- Class: ECE6122
  Last Date Modified: Dec 3, 2019.
- Description: Final Project Header File
  All the Major Functions for the implementations are here.
  All Kinematics and OpenGL drawing functions are here.
  */
