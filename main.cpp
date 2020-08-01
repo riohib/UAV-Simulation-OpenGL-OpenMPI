@@ -5,7 +5,7 @@
  main driver functions and MPI communications set up.
  */
 
-#include "finalProject.h"
+#include "helper.h"
 #include "ECE_Bitmap.h"
 
 // Send location and velocity vector in each direction
