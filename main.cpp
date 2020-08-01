@@ -1,8 +1,6 @@
 /*
  Author: Riyasat Ohib
- Class: ECE6122
  Last Date Modified: Dec 3, 2019.
- Description: Final Project Source CPP File
  All the Major Functions are in the Header File. This cpp file has the
  main driver functions and MPI communications set up.
  */
